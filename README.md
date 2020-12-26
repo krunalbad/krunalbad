@@ -22,7 +22,7 @@ A JavaScript developer from Surat (🇮🇳). I love building applications & dis
 - ⚡ Fun fact: ... Evolving just confused!
 
 ## Github's Stats:
-![Krunal Badami's github stats](https://github-readme-stats.vercel.app/api?username=krunalbad)
+![Krunal Badami's github stats](https://github-readme-stats.vercel.app/api?username=krunalbad&count_private=true&include_all_commits=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalbad&layout=compact)
 
