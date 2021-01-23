@@ -21,11 +21,15 @@ A JavaScript developer from Surat (🇮🇳). I love building applications & dis
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/krunalbadami/)
 - ⚡ Fun fact: ... Evolving just confused!
 
+## Here are some of my popular contributions:
+- 📋 [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) 
+- 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image) 
+- 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control)
+
 ## Github's Stats:
 ![Krunal Badami's github stats](https://github-readme-stats.vercel.app/api?username=krunalbad&count_private=true&include_all_commits=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalbad&layout=compact)
-
 
 _NOTE: These stats does not indicate my skill level or something like that, it's just a github metric of which languages I have the most code on github and elsewhere, it's a feature of github-readme-stats_
 
