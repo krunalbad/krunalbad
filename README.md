@@ -25,6 +25,7 @@ A JavaScript developer from Surat (🇮🇳). I love building applications & dis
 - 📋 [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) 
 - 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image) 
 - 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control)
+- 🍎 [gazedash/react-native-airplay-ios](https://github.com/gazedash/react-native-airplay-ios)
 
 ## Github's Stats:
 ![Krunal Badami's github stats](https://github-readme-stats.vercel.app/api?username=krunalbad&count_private=true&include_all_commits=true&show_icons=true)
