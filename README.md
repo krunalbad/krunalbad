@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Krunal Badami" src="https://camo.githubusercontent.com/e996facd3d5e9bc179acffc8a4317b280115b7d922b4edaecb2d8fdb2cf7fdca/68747470733a2f2f63646e2e71756f7465736772616d2e636f6d2f696d672f36312f39322f313638313732353733372d4c45474f2d4d6f7669652d4261746d616e2d51756f74652e706e67"/>
+<img align="left" width="150" height="150" alt="Krunal Badami" src="https://th.bing.com/th/id/OIP.JITo1LFfqC5WDXSU1VQktwHaHa?pid=Api&rs=1"/>
 
 ### Hi there 👋
 ### I'm [Krunal Badami](http://krunalbadami.herokuapp.com/)
