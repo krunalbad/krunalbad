@@ -27,6 +27,7 @@ A JavaScript developer from Surat (🇮🇳). I love building applications & dis
 - 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control)
 - 🍎 [gazedash/react-native-airplay-ios](https://github.com/gazedash/react-native-airplay-ios)
 - 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase)
+- 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height)
 
 ## Github's Stats:
 ![Krunal Badami's github stats](https://github-readme-stats.vercel.app/api?username=krunalbad&count_private=true&include_all_commits=true&show_icons=true)
