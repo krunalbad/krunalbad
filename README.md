@@ -1,19 +1,25 @@
-<div align="left">
-<h1>Hi 👋, I'm Krunal Badami</h1>
+<h1 align="center">Hi 👋, I'm Krunal Badami</h1>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalbad&label=Profile%20views&color=0e75b6&style=flat" alt="krunalbad" /> </p>
 <p align="left"> <a href="https://twitter.com/krunalbadami" target="blank"><img src="https://img.shields.io/twitter/follow/krunalbadami?logo=twitter&style=for-the-badge" alt="krunalbadami" /></a> </p>
 -->
-<img width="225" height="150" alt="Krunal Badami" src="tumblr_n1feaaT5Tv1six63zo1_400.gif" />
-<h3>A passionate JavaScript developer from India</h3>
-<p>A JavaScript developer from Surat (🇮🇳). I love building applications & discussing new product ideas.✌️</p>
-</div>
+<p  align="center">
+  <a href="https://www.linkedin.com/in/krunalbadami" target="_blank"><img src="https://img.shields.io/badge/linkedin-krunalbadami-blue?logo=linkedin" /></a>
+  <a href="mailto:krunalbadami@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-krunalbadami-blue?logo=gmail" /></a>
+</p>
+
+<h3 align="center">A passionate JavaScript developer from India</h3>
+<p align="center">A JavaScript developer from Surat (🇮🇳). I love building applications & discussing new product ideas.✌️</p>
+<p  align="center"><img height="150" src = "tumblr_n1feaaT5Tv1six63zo1_400.gif"></p>
 
 
 ## Skills and Experience is 3 years+
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -57,12 +63,11 @@
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
 </p>
 
 
+## My Certification(s):
+* [Microsoft Certified JavaScript Associate](https://www.linkedin.com/feed/update/urn:li:activity:6687985148845195264/)
 
 ## Here are some ideas to get you started:
 - 🔭 I’m currently working on **React and React Native. Yeah means I am on front-end side! Woohoo!**
@@ -100,11 +105,9 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunalbad)
 
+![Contribution graph](https://activity-graph.herokuapp.com/graph?username=krunalbad&theme=github)
 
 _NOTE: These stats does not indicate my skill level or something like that, it's just a github metric of which languages I have the most code on github and elsewhere, it's a feature of github-readme-stats_
-
-
-
 
 
 
