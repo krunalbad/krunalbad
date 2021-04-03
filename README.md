@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krunal Badami</h1>
+[<h1 align="center">Hi 👋, I'm Krunal Badami</h1>](https://krunalbadami.herokuapp.com/)
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalbad&label=Profile%20views&color=0e75b6&style=flat" alt="krunalbad" /> </p>
 <p align="left"> <a href="https://twitter.com/krunalbadami" target="blank"><img src="https://img.shields.io/twitter/follow/krunalbadami?logo=twitter&style=for-the-badge" alt="krunalbadami" /></a> </p>
@@ -91,8 +91,18 @@
 - 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase)
 - 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height)
 
+## Here are some of my work: (some maybe still under in progress, idk...)
+<!-- 
+- 🏖 react-native-perfect-image
+- 🎥 react-native-video-scrubber
+-->
+- 📃 [Profile Generator](https://krunalbadami.herokuapp.com/resume/)
+- 🔗 [Shortlink Generator](https://krunalbadami.herokuapp.com/short_link/)
+- 🤑 [Bitcoin Calculator](https://bitkoin-crypto.herokuapp.com/)
 
-## Awarded Badges:
+
+
+## [Awarded Badges](https://www.credly.com/badges/2fe62e88-3c99-425b-ac94-bddc507f95c3):
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunalbad" alt="krunalbad" /></a> </p>
 
 ## Visitor's Count:
