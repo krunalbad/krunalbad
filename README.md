@@ -16,12 +16,12 @@ A JavaScript developer from Surat (🇮🇳). I love building applications & dis
 
 - 🔭 I’m currently working on React and React Native. Yeah means I am on frontend side! Woohoo!
 - 🌱 I’m currently learning JavaScript. Well I know already but still I am learning more ;)
-- 👯 I’m looking to collaborate on ... don't know as of now. Well trying currently did some collaboration in some pkgs! BTW Feel free to reach out to me on LinkedIn! 
+- 👯 I’m looking to collaborate on ... don't know as of now. Well trying currently did some collaboration in some pkgs!
 - 🤔 I’m looking for help with ...uhhh JavaScript Based applications maybe!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/krunalbadami/)
 - ⚡ Fun fact: ... Evolving just confused!
 
-## Here are some of my popular contributions:
+## Here are some of my popular contributions: (some maybe still under review)
 - 📋 [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) 
 - 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image) 
 - 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control)
