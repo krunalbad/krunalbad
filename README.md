@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Krunal Badami" src="https://th.bing.com/th/id/OIP.JITo1LFfqC5WDXSU1VQktwHaHa?pid=Api&rs=1"/>
+<img align="left" width="225" height="150" alt="Krunal Badami" src="tumblr_n1feaaT5Tv1six63zo1_400.gif"/>
 
 ### Hi there 👋
 ### I'm [Krunal Badami](http://krunalbadami.herokuapp.com/)
