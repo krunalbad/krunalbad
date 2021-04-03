@@ -8,7 +8,7 @@
   <a href="mailto:krunalbadami@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-krunalbadami-blue?logo=gmail" /></a>
 </p>
 
-<h3 align="center">A passionate certified JavaScript developer from Surat (🇮🇳</h3>
+<h3 align="center">A passionate certified JavaScript developer from Surat (🇮🇳)</h3>
 <p align="center">I love building applications & discussing new product ideas.✌️</p>
 <p  align="center"><img height="150" src = "tumblr_n1feaaT5Tv1six63zo1_400.gif"></p>
 
