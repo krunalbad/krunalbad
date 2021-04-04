@@ -2,11 +2,13 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalbad&label=Profile%20views&color=0e75b6&style=flat" alt="krunalbad" /> </p>
 <p align="left"> <a href="https://twitter.com/krunalbadami" target="blank"><img src="https://img.shields.io/twitter/follow/krunalbadami?logo=twitter&style=for-the-badge" alt="krunalbadami" /></a> </p>
+<a href="https://krunalbadami.herokuapp.com/" target="_blank"><img src="https://komarev.com/ghpvc/?username=krunalbad" /></a>
+<a href="mailto:krunalbadami@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-krunalbadami-blue?logo=gmail" /></a>
 -->
 <p  align="center">
-  <a href="https://www.linkedin.com/in/krunalbadami" target="_blank"><img src="https://img.shields.io/badge/linkedin-krunalbadami-blue?logo=linkedin" /></a>
-  <a href="mailto:krunalbadami@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-krunalbadami-blue?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/krunalbadami" target="_blank"><img src="https://img.shields.io/badge/-krunalbadami-blue?logo=linkedin" /></a>
 </p>
+
 
 <h3 align="center">A passionate certified JavaScript developer from Surat (🇮🇳)</h3>
 <p align="center">I love building applications & discussing new product ideas.✌️</p>
