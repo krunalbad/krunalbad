@@ -70,6 +70,7 @@
 
 ## My Certification(s):
 * [Microsoft Certified JavaScript Associate](https://www.linkedin.com/feed/update/urn:li:activity:6687985148845195264/)
+* [Microsoft Certified Azure Fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:6807229354423197696/)
 
 ## Here are some ideas to get you started:
 - 🔭 I’m currently working on **React and React Native. Yeah means I am on front-end side! Woohoo!**
@@ -90,8 +91,8 @@
 - 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image) 
 - 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control)
 - 🍎 [gazedash/react-native-airplay-ios](https://github.com/gazedash/react-native-airplay-ios)
-- 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase)
-- 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height)
+- 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) (Pending)
+- 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height) (Pending)
 
 ## Here are some of my work: (some maybe still under in progress, idk...)
 <!-- 
@@ -115,7 +116,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalbad&layout=compact)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunalbad)
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunalbad) -->
 
 ![Contribution graph](https://activity-graph.herokuapp.com/graph?username=krunalbad&theme=github)
 
