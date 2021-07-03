@@ -71,6 +71,7 @@
 ## My Certification(s):
 * [Microsoft Certified JavaScript Associate](https://www.linkedin.com/feed/update/urn:li:activity:6687985148845195264/)
 * [Microsoft Certified Azure Fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:6807229354423197696/)
+* [Microsoft Certified Azure Data Fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:6817100665484050432/)
 
 ## Here are some ideas to get you started:
 - 🔭 I’m currently working on **React and React Native. Yeah means I am on front-end side! Woohoo!**
