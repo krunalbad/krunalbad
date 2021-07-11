@@ -88,12 +88,12 @@
 
 
 ## Here are some of my contributions: (some maybe still under review, idk...)
-- 📋 [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) 
-- 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image) 
-- 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control)
-- 🍎 [gazedash/react-native-airplay-ios](https://github.com/gazedash/react-native-airplay-ios)
-- 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) (Pending)
-- 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height) (Pending)
+- 📋 [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header/pulls?q=is%3Apr+author%3Akrunalbad+) 
+- 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image/pulls?q=is%3Apr+author%3Akrunalbad+) 
+- 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control/pulls?q=is%3Apr+author%3Akrunalbad+)
+- 🍎 [gazedash/react-native-airplay-ios](https://github.com/gazedash/react-native-airplay-ios/pulls?q=is%3Apr+author%3Akrunalbad+)
+- 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase/pulls?q=is%3Apr+author%3Akrunalbad+) (Pending)
+- 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height/pulls?q=is%3Apr+author%3Akrunalbad+) (Pending)
 
 ## Here are some of my work: (some maybe still under in progress, idk...)
 <!-- 
@@ -102,7 +102,7 @@
 -->
 - 📃 [Profile Generator](https://krunalbadami.herokuapp.com/resume/)
 - 🔗 [Shortlink Generator](https://krunalbadami.herokuapp.com/short_link/)
-- 🤑 [Bitcoin Calculator](https://bitkoin-crypto.herokuapp.com/)
+- 🤑 [Bitcoin Calculator](https://bitkoin-crypto.herokuapp.com/) - Trending Now!
 
 
 
