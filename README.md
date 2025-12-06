@@ -15,7 +15,7 @@
   />
 </p>
 
-<!-- Fun GIF -->
+<!-- Fun GIF (make sure this file exists in your repo or use a full URL) -->
 <p align="center">
   <img src="tumblr_n1feaaT5Tv1six63zo1_400.gif" height="200" />
 </p>
@@ -57,7 +57,8 @@ I ship production-grade **streaming apps**, handle **HLS/DASH** video pipelines,
 
 ## 🚀 Tech Stack
 
-### 🧩 Languages, Frameworks & Platforms
+<details>
+<summary>🧩 Languages, Frameworks & Platforms</summary>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -85,7 +86,10 @@ I ship production-grade **streaming apps**, handle **HLS/DASH** video pipelines,
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
-### 🧱 State Management & Navigation
+</details>
+
+<details>
+<summary>🧱 State Management & Navigation</summary>
 
 <p>
   <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC" />
@@ -94,7 +98,10 @@ I ship production-grade **streaming apps**, handle **HLS/DASH** video pipelines,
   <img src="https://img.shields.io/badge/React%20Navigation-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 📺 Media, Ads & Analytics
+</details>
+
+<details>
+<summary>📺 Media, Ads & Analytics</summary>
 
 <p>
   <img src="https://img.shields.io/badge/HLS%20%2F%20DASH-000000?style=for-the-badge" />
@@ -103,7 +110,10 @@ I ship production-grade **streaming apps**, handle **HLS/DASH** video pipelines,
   <img src="https://img.shields.io/badge/Analytics-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 </p>
 
-### 🧑‍💼 Leadership & Collaboration
+</details>
+
+<details>
+<summary>🧑‍💼 Leadership & Collaboration</summary>
 
 <p>
   <img src="https://img.shields.io/badge/Team_Leadership-000000?style=for-the-badge" />
@@ -111,6 +121,8 @@ I ship production-grade **streaming apps**, handle **HLS/DASH** video pipelines,
   <img src="https://img.shields.io/badge/Agile_%7C_Scrum-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UX%20Collaboration%20(Designers)-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
+
+</details>
 
 ---
 
@@ -125,6 +137,21 @@ I focus heavily on **TV apps and streaming experiences**:
 - Performance tuning for **low-latency, crash-free TV apps** at scale  
 
 If you’re building or scaling a **React Native + Roku + TV app** stack, that’s exactly where I work.
+
+---
+
+## 📱 Mobile App Expertise
+
+I focus heavily on **mobile apps and user experiences**:
+
+- End-to-end **React Native development** for Android & iOS  
+- **High-performance UI/UX** for mobile screens (touch, gestures, animations)  
+- Custom **components** with Redux/MobX, React Navigation  
+- **Cross-platform** apps with native performance and smooth interactions  
+- Integration with **Firebase**, **GraphQL**, analytics, and ads  
+- Performance tuning for **smooth, battery-efficient mobile apps** at scale  
+
+If you’re building or scaling a **React Native mobile app**, that’s exactly where I work.
 
 ---
 
@@ -159,6 +186,14 @@ More on my profile: **https://github.com/krunalbad**
 
 ## 📊 GitHub Overview
 
+### Additional Metrics
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/krunalbad?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/krunalbad?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/watchers/krunalbad?label=Watchers&style=social" />
+  <img src="https://img.shields.io/github/repo-size/krunalbad/krunalbad?label=Profile%20Size&style=flat-square" />
+</p>
 
 ### Streak
 
@@ -181,6 +216,15 @@ More on my profile: **https://github.com/krunalbad**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krunalbad&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
+<!--
+### Contribution Calendar (WakaTime)
+Uncomment this section only if you have WakaTime configured for username "krunalbad".
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krunalbad&theme=tokyonight&hide_border=true" />
+</p>
+-->
+
 ---
 
 ## 🎮 Fun Zone
@@ -194,7 +238,7 @@ More on my profile: **https://github.com/krunalbad**
 ### Pixel Avatar
 
 <p align="left">
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Krunal Badami" width="200" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Krunal" width="200" />
 </p>
 
 ---
