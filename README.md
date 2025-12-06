@@ -8,6 +8,38 @@
   />
 </p>
 
+---
+
+## ⚡ The Flashpoint: How I Became *That* Developer
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=300&color=FACC15&center=true&vCenter=true&width=900&lines=Every+speedster+has+an+origin+story...;This+one+is+mine+%E2%9A%A1;I+wasn%27t+born+fast...;I+was+rebuilt+by+code.;JavaScript+sparked+my+run.;BrightScript+supercharged+my+evolution.;Now+I+move+like+lightning+through+React+Native+%26+Roku."
+    alt="Flash Typing Animation"
+  />
+</p>
+
+
+
+<div align="center" style="max-width:780px; margin:auto; font-size:16px; line-height:1.6;">
+
+<b>My name is Krunal Badami, and I am one of the fastest developers alive.</b><br/>
+When I was a teenager, I encountered something called <b>JavaScript</b>.<br/>
+That single accident didn’t just change my life — it rewired it.<br/>
+It turned me into someone who could learn, build, and ship faster than most people could think.<br/><br/>
+
+And just when I thought I’d mastered my path,  
+I discovered <b>BrightScript</b> — the power behind Roku apps.<br/>
+Another accident. Another evolution.<br/><br/>
+
+From <b>web</b> to <b>mobile</b> to <b>TV</b>,  
+I’ve been running ever since. ⚡
+
+</div>
+
+---
+
+
 <!-- Streaming / Typing Banner -->
 <p align="center">
   <img
