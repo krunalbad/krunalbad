@@ -12,13 +12,13 @@
 
 ## ⚡ The Flashpoint: How I Became *That* Developer
 
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=300&color=FACC15&center=true&vCenter=true&width=900&lines=Every+speedster+has+an+origin+story...;This+one+is+mine+%E2%9A%A1;I+wasn%27t+born+fast...;I+was+rebuilt+by+code.;JavaScript+sparked+my+run.;BrightScript+supercharged+my+evolution.;Now+I+move+like+lightning+through+React+Native+%26+Roku."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=0&color=FACC15&center=true&vCenter=true&width=780&lines=Every+speedster+has+an+origin+story...;This+one+is+mine+%E2%9A%A1;I+wasn%27t+born+fast...;I+was+rebuilt+by+code.;JavaScript+sparked+my+run.;BrightScript+supercharged+my+evolution.;Now+I+move+like+lightning+through+React+Native+%26+Roku."
     alt="Flash Typing Animation"
   />
 </p>
-
 
 
 <div align="center" style="max-width:780px; margin:auto; font-size:16px; line-height:1.6;">
@@ -108,7 +108,7 @@ remote React Native TV developer
 
 ## 🎮 Loadout: Tech Stack (Streaming Edition)
 
-<div align="center">
+<div>
 
 ### 🧩 Languages, Frameworks & Platforms
 
@@ -219,19 +219,6 @@ Some of the places I’ve contributed:
   [`Gustash/react-native-giphy-keyboard`](https://github.com/Gustash/react-native-giphy-keyboard/pulls?q=is%3Apr+author%3Abharamalhusen+)
 
 More here: **https://github.com/krunalbad**
-
----
-
-## 🎬 Highlight Reels (Projects)
-
-- **Profile Generator** — multiple resume and profile formats  
-  🔗 https://krunalbadami.herokuapp.com/resume/
-
-- **Short Link Generator** — simple sharable URL shortener  
-  🔗 https://krunalbadami.herokuapp.com/short_link/
-
-- **Bitcoin Calculator** — crypto value calculator  
-  🔗 https://bitkoin-crypto.herokuapp.com/
 
 ---
 
