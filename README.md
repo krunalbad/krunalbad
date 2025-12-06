@@ -1,143 +1,216 @@
-[<h1 align="center">Hi 👋, I'm Krunal Badami</h1>](https://krunalbadami.herokuapp.com/)
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalbad&label=Profile%20views&color=0e75b6&style=flat" alt="krunalbad" /> </p>
-<p align="left"> <a href="https://twitter.com/krunalbadami" target="blank"><img src="https://img.shields.io/twitter/follow/krunalbadami?logo=twitter&style=for-the-badge" alt="krunalbadami" /></a> </p>
-<a href="https://krunalbadami.herokuapp.com/" target="_blank"><img src="https://komarev.com/ghpvc/?username=krunalbad" /></a>
-<a href="mailto:krunalbadami@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-krunalbadami-blue?logo=gmail" /></a>
--->
-<p  align="center">
-  <a href="https://www.linkedin.com/in/krunalbadami" target="_blank"><img src="https://img.shields.io/badge/-krunalbadami-blue?logo=linkedin" /></a>
+<!-- ========================= -->
+<!--      KRUNAL BADAMI       -->
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=160&section=header&text=🚀%20Krunal%20Badami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Surat,%20India%20🇮🇳&descAlignY=70&descAlign=50"
+  />
 </p>
 
-
-<h3 align="center">A passionate certified JavaScript developer from Surat (🇮🇳)</h3>
-<p align="center">I love building applications & discussing new product ideas.✌️</p>
-<p  align="center"><img height="150" src = "tumblr_n1feaaT5Tv1six63zo1_400.gif"></p>
-
-
-## Skills and Experience is 3 years+
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://graphql.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a> 
-  <a href="https://codeigniter.com" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
+<!-- Typing Animation -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&center=true&vCenter=true&width=900&color=38BDF8&lines=Senior+React+Native+Developer+in+India;Roku+BrightScript+%26+SceneGraph+Specialist;Android+TV+%7C+Apple+TV+%7C+OTT+Streaming+Engineer;High-Performance+UI%2FUX+for+Mobile+%26+Big+Screens;Building+Production-Ready+Media+%26+TV+Apps"
+  />
 </p>
 
+<!-- Fun GIF -->
+<p align="center">
+  <img src="tumblr_n1feaaT5Tv1six63zo1_400.gif" height="200" />
+</p>
 
-## My Certification(s):
-* [Microsoft Certified JavaScript Associate](https://www.linkedin.com/feed/update/urn:li:activity:6687985148845195264/)
-* [Microsoft Certified Azure Fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:6807229354423197696/)
-* [Microsoft Certified Azure Data Fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:6817100665484050432/)
+<!-- Social Links -->
+<p align="center">
+  <a href="https://krunalbad.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-View_Projects-0F766E?style=for-the-badge" />
+  </a>
+  <a href="https://t.me/thatrokuguy">
+    <img src="https://img.shields.io/badge/Telegram-@thatrokuguy-1DA1F2?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://linkedin.com/in/krunalbadami">
+    <img src="https://img.shields.io/badge/LinkedIn-Krunal_Badami-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-## Here are some ideas to get you started:
-- 🔭 I’m currently working on **React and React Native. Yeah means I am on front-end side! Woohoo!**
-- 🌱 I’m currently learning **JavaScript, TypeScript, React and ReactNative**
-- 👯 I’m looking to collaborate on **... well don't know as of now. Still trying some collaboration in some packages!**
-- 🤝 I’m looking for help with **anything you have to share which is based on JavaScript**
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/krunalbad?tab=repositories)
-- 📝 I write articles on [my company's blog portal](https://blog.logicwind.com/author/krunal-badami/)
-- 💬 Ask me about **javascript, react, react-native**
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/krunalbadami/)**
-- 🌏 My Website **[click here to see the awesomeness](https://krunalbadami.herokuapp.com/)**
-- 📄 Know about my experiences [Beware! This will automatically download my resume in PDF](http://krunalbadami.herokuapp.com/profile/Krunal%20Badami's%20Profile.pdf)
-- ⚡ Fun fact **... Evolving just confused!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krunalbad&style=for-the-badge&color=1E3A8A" />
+</p>
+
+---
+
+## 👨‍💻 About
+
+I’m **Krunal Badami**, a senior developer with deep experience in:
+
+- **React Native** for Android & iOS  
+- **Roku app development** (BrightScript + SceneGraph)  
+- **Android TV & Apple TV** applications  
+- **OTT / media streaming platforms**  
+- **High-performance, product-focused UI/UX** for mobile and big screens  
+
+I ship production-grade **streaming apps**, handle **HLS/DASH** video pipelines, and optimize for **performance, memory, and smooth D-pad navigation** across TV and mobile.
+
+> Keywords around my work: _React Native developer India, Roku developer, TV app developer, BrightScript engineer, streaming app engineer, OTT app specialist_.
+
+---
+
+## 🚀 Tech Stack
+
+### 🧩 Languages, Frameworks & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Roku-000000?style=for-the-badge&logo=roku&logoColor=6A1B9A" />
+  <img src="https://img.shields.io/badge/BrightScript-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android%20TV-000000?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=1575F9" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=E10098" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+### 🧱 State Management & Navigation
+
+<p>
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-000000?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/MobX-000000?style=for-the-badge&logo=mobx&logoColor=FF9955" />
+  <img src="https://img.shields.io/badge/React%20Navigation-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 📺 Media, Ads & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/HLS%20%2F%20DASH-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DRM_Ready-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20AdMob-000000?style=for-the-badge&logo=googleads&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Analytics-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
+
+### 🧑‍💼 Leadership & Collaboration
+
+<p>
+  <img src="https://img.shields.io/badge/Team_Leadership-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project_Management-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile_%7C_Scrum-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%20Collaboration%20(Designers)-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+
+---
+
+## 📺 TV & OTT App Expertise
+
+I focus heavily on **TV apps and streaming experiences**:
+
+- End-to-end **Roku channel development** using BrightScript + SceneGraph  
+- **Android TV & Apple TV** navigation (D-pad, focus engine, remote interactions)  
+- Custom **video players** with HLS/DASH, DRM, trick-play, and robust error handling  
+- **OTT subscription flows**, authentication, entitlement, and deep linking  
+- Performance tuning for **low-latency, crash-free TV apps** at scale  
+
+If you’re building or scaling a **React Native + Roku + TV app** stack, that’s exactly where I work.
+
+---
+
+## 🛠 Open Source & Community
+
+### Here are some of my contributions (some may still be under review):
+
+- 📋 [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header/pulls?q=is%3Apr+author%3Akrunalbad+)  
+- 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image/pulls?q=is%3Apr+author%3Akrunalbad+)  
+- 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control/pulls?q=is%3Apr+author%3Akrunalbad+)  
+- 🍎 [gazedash/react-native-airplay-ios](https://github.com/gazedash/react-native-airplay-ios/pulls?q=is%3Apr+author%3Akrunalbad+)  
+- 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase/pulls?q=is%3Apr+author%3Akrunalbad+) (Pending)  
+- 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height/pulls?q=is%3Apr+author%3Akrunalbad+) (Pending)  
+- 🖼️ [Gustash/react-native-giphy-keyboard](https://github.com/Gustash/react-native-giphy-keyboard/pulls?q=is%3Apr+author%3Abharamalhusen+) (Pending)  
+
+More on my profile: **https://github.com/krunalbad**
+
+---
+
+## 📂 Selected Projects
+
+- **Profile Generator** — multiple resume/profile formats  
+  https://krunalbadami.herokuapp.com/resume/  
+
+- **Short Link Generator**  
+  https://krunalbadami.herokuapp.com/short_link/  
+
+- **Bitcoin Calculator**  
+  https://bitkoin-crypto.herokuapp.com/  
+
+---
+
+## 📊 GitHub Overview
 
 
-## Here are some of my contributions: (some maybe still under review, idk...)
-- 📋 [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header/pulls?q=is%3Apr+author%3Akrunalbad+) 
-- 📷 [react-native-toolkit/react-native-better-image](https://github.com/react-native-toolkit/react-native-better-image/pulls?q=is%3Apr+author%3Akrunalbad+) 
-- 🔊 [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control/pulls?q=is%3Apr+author%3Akrunalbad+)
-- 🍎 [gazedash/react-native-airplay-ios](https://github.com/gazedash/react-native-airplay-ios/pulls?q=is%3Apr+author%3Akrunalbad+)
-- 🎨 [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase/pulls?q=is%3Apr+author%3Akrunalbad+) (Pending)
-- 📱 [ovr/react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height/pulls?q=is%3Apr+author%3Akrunalbad+) (Pending)
-- 🖼️ [Gustash/react-native-giphy-keyboard](https://github.com/Gustash/react-native-giphy-keyboard/pulls?q=is%3Apr+author%3Abharamalhusen+) (Pending)
+### Streak
 
-## Here are some of my work: (some maybe still under in progress, idk...)
-<!-- 
-- 🏖 react-native-perfect-image
-- 🎥 react-native-video-scrubber
--->
-- 📃 [Profile Generator](https://krunalbadami.herokuapp.com/resume/)
-- 🔗 [Shortlink Generator](https://krunalbadami.herokuapp.com/short_link/)
-- 🤑 [Bitcoin Calculator](https://bitkoin-crypto.herokuapp.com/) - Trending Now!
-
-
-
-## [Awarded Badges](https://www.credly.com/badges/2fe62e88-3c99-425b-ac94-bddc507f95c3):
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunalbad" alt="krunalbad" /></a> </p>
-
-## Visitor's Count:
-<p><img src="https://profile-counter.glitch.me/{krunalbad}/count.svg" /></p> 
-
-## Github's Stats:
-![Krunal Badami's github stats](https://github-readme-stats.vercel.app/api?username=krunalbad&count_private=true&include_all_commits=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalbad&layout=compact)
-
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunalbad) -->
-
-![Contribution graph](https://activity-graph.herokuapp.com/graph?username=krunalbad&theme=github)
-
-_NOTE: These stats does not indicate my skill level or something like that, it's just a github metric of which languages I have the most code on github and elsewhere, it's a feature of github-readme-stats_
-
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krunalbadami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="krunalbadami" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krunalbadami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krunalbadami" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10489714" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10489714" height="30" width="40" /></a>
-<a href="https://fb.com/krunalbad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="krunalbad" height="30" width="40" /></a>
-<a href="https://instagram.com/krunalbadami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krunalbadami" height="30" width="40" /></a>
+  <img
+    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krunalbad&theme=tokyonight&hide_border=true"
+  />
 </p>
 
+### Trophies
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/krunalbadami"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krunalbadami" /></a></p><br><br>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=krunalbad&theme=onedark&row=1&column=6" />
+</p>
 
+### Activity Graph
 
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krunalbad&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🎮 Fun Zone
+
+### Random Dev Joke
+
+<p align="left">
+  <img src="https://readme-jokes.vercel.app/api?theme=gradient" />
+</p>
+
+### Pixel Avatar
+
+<p align="left">
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Krunal Badami" width="200" />
+</p>
+
+---
+
+## 🕹️ Mini Games (Quick Breaks)
+
+These are external games you can open in a new tab when you need a break:
+
+- 🐍 [GitHub-style Snake Game](https://playsnake.org/)  
+- 🦖 [Chrome Dino Runner](https://chromedino.com/)  
+- ❌⭕ [Tic-Tac-Toe](https://playtictactoe.org/)  
+
+---
+
+## 📫 Contact
+
+- Portfolio: **https://krunalbad.github.io**  
+- Telegram: **@thatrokuguy**  
+- LinkedIn: **https://linkedin.com/in/krunalbadami**
