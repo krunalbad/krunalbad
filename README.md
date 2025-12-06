@@ -33,7 +33,7 @@ I discovered <b>BrightScript</b> — the power behind Roku apps.<br/>
 Another accident. Another evolution.<br/><br/>
 
 From <b>web</b> to <b>mobile</b> to <b>TV</b>,  
-I’ve been running ever since. ⚡
+I’ve been coding, building & running ever since. ⚡
 
 </div>
 
